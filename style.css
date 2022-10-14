@@ -7,7 +7,7 @@ body{
     color: white;
 }
 h3{
-    top: 22%;
+    top: 10%;
     left: 50%;
     position: absolute;
     transform: translate(-50%,-50%);
@@ -57,7 +57,7 @@ h3{
     visibility: hidden;
 }
 .buttons{
-    top: 80%;
+    top: 85%;
     left: 50%;
     position: absolute;
     transform: translate(-50%,-50%);
